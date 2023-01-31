@@ -472,3 +472,7 @@ h1{
   opacity: 1;
   display: inline-block;
 }
+a{
+  color: black !important;
+  text-decoration: none !important;
+}
